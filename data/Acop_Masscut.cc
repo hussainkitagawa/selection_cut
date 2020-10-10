@@ -176,7 +176,6 @@ int Acop_Masscut(){
 	f1->SetLineColor(2);
 	data_Acop->Fit("f2");
 */
-cout<<"tanaka to kitagawa = T2K experiment"<<endl;
 return 0;
 
 }	
